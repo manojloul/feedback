@@ -12,7 +12,13 @@ nav{
     display: flex;
     align-items: center;
 }
-
+.head
+{
+    text-align: center;  
+}
+.head a {
+    text-decoration: none;
+}
 
 
 .footer{
